@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-//Implementation of the Local Alignment Problem
+//Implementation of the Local Alignment Problem 
 // Inputs are as follows:
 //    matchReward: integer representing reward for correct alignment
 //    mismachPenalty: integer representing penalty for inncorrect alignment
